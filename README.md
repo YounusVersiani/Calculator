@@ -1,3 +1,2 @@
 # Calculator
-
-https://github.com/YounusVersiani/Calculator/blob/main/calc.html
+https://raw.githubusercontent.com/YounusVersiani/Calculator/refs/heads/main/calc.html
