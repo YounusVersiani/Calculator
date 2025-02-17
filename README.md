@@ -1,3 +1,3 @@
 # Calculator
 
-Access the calculator via the link.
+https://github.com/YounusVersiani/Calculator/blob/main/calc.html
